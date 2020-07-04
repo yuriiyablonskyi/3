@@ -179,10 +179,6 @@
 .header__link + .header__link {
 	margin: 0;
 }
-.services__img,
-.work__img {
-	width: 30px;
-}
 .header__link {
   width: 100%;
   text-align: center;
